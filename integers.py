@@ -7,6 +7,7 @@ z = x + y
 e = x - y
 q = x * y
 w = x / y
+n = x % y
 
 print(z)
 print(e)
